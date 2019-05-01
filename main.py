@@ -49,7 +49,7 @@ def check_word_list():
     word = 'file open'
     f_top.configure(text=word)
 
-########## WORK SUKA, WORK!
+########## STREAM
 
 def flag_start_stop(event):
     global flag
